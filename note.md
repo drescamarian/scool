@@ -1,40 +1,40 @@
 ## Console notes
-`mkdir -- repository`
-`cd --repository`
-`git init`
-`touch readme.md`
-`git add readme.md`
-`git status`
-`git commit -m “Add readme.md”`
-`git log`
-`git status`
-`git config –global user.name “Your Name”`
-`git config –global user.email you@email.com`
-`git log --graph –decorate ‘– online’`
-`git remote add origin ‘server’`
-`git checkout -b create`
-`git branch -d delete`
-`git merge ‘to master’`
-`git commit -a “Commit and add all file”`
-
-
-
-`git status `
-`nano readme.md`
-
-`git commit -a = --all`
-`git commit -am “Git Commands added”`
+- mkdir `-- repository`
+- cd `--repository`
+- git init
+- touch `readme.md` `-- File cration`
+- git add `readme.md`
+- git status
+- git commit -m “Add readme.md”
+- git log
+- git status
+- git config –global user.name “Your Name”
+- git config –global user.email you@email.com
+- git log --graph –decorate ‘– online’
+- git remote add origin ‘server’
+- git checkout -b create
+- git branch -d delete
+- git merge ‘to master’
+- git commit -a “Commit and add all file”
+- 
+- 
+- 
+- git status 
+- nano readme.md
+- 
+- git commit -a = --all
+- git commit -am “Git Commands added”
 
 ## Comands
 
-`mv – move `
-`cp – copie`
-`cd – direktory`
-`rm – remove`
-`rm -rf - remove directory force`
-`nano – text editor`
-`mkdir – directory creator`
-`pwd – directory check`
+- mv `– move `
+- cp `– copie`
+- cd `– direktory`
+- rm `– remove`
+- rm -rf `- remove directory force`
+- nano `– text editor`
+- mkdir `– directory creator`
+- pwd `– directory check`
 
 ## github with SSH
 
@@ -65,7 +65,7 @@
    - status  --  `Show the working tree status`
 
 ## grow, mark and tweak your common history
-   - branch  --  `List, create, or delete branches	
+   - branch  --  `List, create, or delete branches`	
    - commit  --  `Record changes to the repository`
    - merge  --   `Join two or more development histories together`
    - rebase  --  `Reapply commits on top of another base tip`
