@@ -3,21 +3,24 @@
 - cd `--repository`
 - git init
 - touch `readme.md` `-- File cration`
-- git add `readme.md`
+- git add `.` oder `readme.md`
 - git status
 - git commit -m “Add readme.md”
 - git log
 - git status
-- git config –global user.name “Your Name”
-- git config –global user.email you@email.com
+- git config –global user.name “Your Name” --`first time only`
+- git config –global user.email you@email.com --`first time only`
+- git pull `link from github` -- for a coppy of proitect to begene
 - git log --graph –decorate ‘– online’
 - git remote add origin ‘server’
 - git checkout -b create
-- git branch -d delete
+- git branch `-d delete` delete the branch
+- git branch `name of branch` to work on branch
 - git merge ‘to master’
 - git commit -a “Commit and add all file”
-- 
-- 
+- git push --set-upstream origin `name brach`
+- git branch --a `all online and local`
+- git fetch -p `git all metadata`
 - 
 - git status 
 - nano readme.md
@@ -33,6 +36,7 @@
 - rm `– remove`
 - rm -rf `- remove directory force`
 - nano `– text editor`
+- gedit `-- text editor`
 - mkdir `– directory creator`
 - pwd `– directory check`
 
